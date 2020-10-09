@@ -1,0 +1,16 @@
+*~
+*.swp
+*.pyc
+*-journal
+
+/*\.egg-info
+/\.virtenv
+
+/htmlcov
+/\.coverage
+
+/db\.sqlite3
+/media/dist/index.\html
+/media/pdf/*
+/node_modules
+/app/local_settings\.py
